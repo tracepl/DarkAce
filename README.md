@@ -12,6 +12,6 @@ Where can I obtain help for it?
 Ask here:
 http://fluxbb.org/forums/viewtopic.php?id=6984
 
-On which license is is released?
+On which license is it released?
 =======
-On GNU GPL v2, see License.md to read it
+Like FluxBB - GNU GPL v2
